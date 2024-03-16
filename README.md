@@ -3,7 +3,7 @@ This project aims to manage content efficiently
 ## Table of Contents
 - [Description](#description)
 - [Objective](#objective)
-- [sequence flow](#Sequence-diagram)
+- [Sequence Flow](#Sequence-diagram)
 - [Classes](#Classes)
 - [Class Diagram](#Class-Diagram)
 
