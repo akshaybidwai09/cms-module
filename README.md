@@ -6,6 +6,7 @@ This project aims to manage content efficiently
 - [Sequence Flow](#Sequence-diagram)
 - [Classes](#Classes)
 - [Class Diagram](#Class-Diagram)
+- [Installation Guide](#Installation)
 
 # Content Management Systems
 
@@ -100,5 +101,39 @@ Service classes contain the business logic of the application, working between t
 To view the class diagram, see below:
 
 ![Class Diagram](images/class_diagram.jpg)
+
+
+## Installation
+
+Follow these steps to set up the environment and run both the front-end and back-end parts of EchoSphere CMS.
+
+## Prerequisites
+
+Before you start, ensure you have the following installed:
+- Git
+- Node.js and npm
+- Docker and Docker Compose
+- IntelliJ IDEA (recommended for back-end development)
+
+### Clone the Repository
+
+First, clone the EchoSphere CMS repository to your local machine:
+
+```bash
+git clone <REPOSITORY_URL>
+
+Front-end Setup
+To set up and run the front end, navigate to the cms-frontend folder:
+cd cms-frontend
+npm install
+npm run dev
+
+Back-end Setup
+For the back-end setup, first, navigate to the cms-backend folder:
+
+cd ../cms-backend
+docker-compose up
+run cms-application folder on Intelij preferrably 
+
 
 
