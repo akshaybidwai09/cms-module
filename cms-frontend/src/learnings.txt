@@ -1,0 +1,13 @@
+States are used when we want specific components to change on actions
+
+how can we make components reusable we can use props.
+
+
+Props are the inputs that are passed to the components
+props are immutable
+
+State are the internal data that manages the changeble data.  
+state changes pver time so they are mutable
+
+
+children props allows us to pass html content as well

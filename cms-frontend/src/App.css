@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center align the children */
+  min-height: 100vh; /* Full viewport height */
+  background-color: #f4f4f4;
+ 
+}
+
+.header {
+  width: 100%;
+  background-color: #283593; /* New background color, e.g., a deep purple */
+  color: #ffffff; /* Keeping the text color white for contrast */
+  padding: 20px 0;
+  font-size: 32px; /* Increased font size */
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  border-bottom: 3px solid #7c43bd; /* Border color adjusted to match the new background */
+}
+
+
+/* Rest of your existing styles for login form, inputs, and buttons */
+
+.inactive-button {
+  background-color: transparent;
+  color: #007bff;
+  padding: 15px 30px; /* Increase padding for a larger button */
+  border: 2px solid #007bff;
+  border-radius: 4px;
+  margin: 0 auto; /* Center the button */
+  display: block; /* Ensure the button is a block element */
+  font-size: 18px; /* Increase font size */
+  cursor: pointer;
+  transition: all 0.3s ease;
+  /* Remove margin-top if you want the button closer to the form */
+}
+
+.inactive-button:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Add styles to remove scrollbar if not necessary */
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}

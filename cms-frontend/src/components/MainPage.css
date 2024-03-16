@@ -1,0 +1,60 @@
+/* MainPage.css */
+.main-page {
+    display: flex;
+    height: 100vh; /* Full viewport height */
+    background-color: #f4f4f4; /* Background color similar to app.css */
+  }
+  
+  .sidebar {
+    width: 100px; /* Set a fixed width for the sidebar */
+    background-color: #283593; /* Deep purple background as in header */
+    color: #ffffff; /* White text for contrast */
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    /* Additional styles to ensure it stays on the left */
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    
+  }
+  
+  .sidebar ul {
+    list-style: none; /* Remove default list styling */
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar a {
+    color: #ffffff; /* White text for links */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 18px;
+  }
+  
+  .sidebar a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+  }
+  
+  .content-area {
+    display: grid; /* Use grid layout */
+    grid-template-columns: 1fr; /* Single column layout */
+    grid-template-rows: auto 1fr; /* Two rows: auto for header and 1fr for content */
+    padding: 20px; /* Adjust based on preference */
+    margin-left: 100px;
+
+  }
+  
+  
+  
+  /* Additional styles for Route components (Profile, Activity, NewPost) */
+  /* Adjust these based on the specific needs of those components */
+  .profile, .activity, .new-post {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
