@@ -54,7 +54,7 @@ To design and develop a robust and user-friendly CMS catering to diverse content
 ## Sequence Diagram
 To view the sequence diagram, see below:
 
-![Sequence Diagram](images/sequence diagram.jpg)
+![Sequence Diagram](images/sequence_diagram.jpg)
 
 ## Classes
 
