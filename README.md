@@ -3,8 +3,9 @@ This project aims to manage content efficiently
 ## Table of Contents
 - [Description](#description)
 - [Objective](#objective)
+- [sequence flow](#Sequence-diagram)
 - [Classes](#Classes)
-- [Class Diagram](#Class Diagram)
+- [Class Diagram](#Class-Diagram)
 
 # Content Management Systems
 
@@ -53,7 +54,7 @@ To design and develop a robust and user-friendly CMS catering to diverse content
 - **Content Management: Full control over content by authors.
 - **Platform Accessibility: Compatible with various devices and browsers.
 
-## Sequence Diagram
+## Sequence-Diagram
 To view the sequence diagram, see below:
 
 ![Sequence Diagram](images/sequence_diagram.jpg)
@@ -95,7 +96,7 @@ Service classes contain the business logic of the application, working between t
 - **UserService:** Outlines the business logic for user management tasks.
 - **UserServiceimpl:** Implements the defined UserService, executing user-related business logic.
 
-## Class Diagram
+## Class-Diagram
 To view the class diagram, see below:
 
 ![Class Diagram](images/class_diagram.jpg)
