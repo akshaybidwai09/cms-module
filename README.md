@@ -93,4 +93,9 @@ Service classes contain the business logic of the application, working between t
 - **UserService:** Outlines the business logic for user management tasks.
 - **UserServiceimpl:** Implements the defined UserService, executing user-related business logic.
 
+## Class Diagram
+To view the class diagram, see below:
+
+![Class Diagram](images/class_diagram.jpg)
+
 
