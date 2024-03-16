@@ -51,6 +51,12 @@ To design and develop a robust and user-friendly CMS catering to diverse content
 - **Content Management: Full control over content by authors.
 - **Platform Accessibility: Compatible with various devices and browsers.
 
+## Sequence Diagram
+To view the sequence diagram, see below:
+
+```markdown
+![Sequence Diagram](images/sequence diagram.jpg)
+
 ## Classes
 
 ### Controllers
