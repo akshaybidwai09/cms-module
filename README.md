@@ -3,6 +3,8 @@ This project aims to manage content efficiently
 ## Table of Contents
 - [Description](#description)
 - [Objective](#objective)
+- [Classes](#Classes)
+- [Class Diagram](#Class Diagram)
 
 # Content Management Systems
 
