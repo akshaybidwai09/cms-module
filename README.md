@@ -11,7 +11,7 @@ This project aims to manage content efficiently
 # Content Management Systems
 
 ## Description
-This CMS is a modern, advanced content management system designed specifically for organizational or social use in today's digitally connected world. CMS is named to be a EchoSphere provides a dynamic platform where members of any organization can express themselves and manage their digital content with remarkable ease and versatility. It's also ideal solution for organizations seeking to foster a rich environment of social connectivity and digital storytelling among their members. 
+This CMS is a modern, advanced content management system designed specifically for organizational or social use in today's digitally connected world. CMS named as EchoSphere provides a dynamic platform where members of any organization can express themselves and manage their digital content with remarkable ease and versatility. It's also ideal solution for organizations seeking to foster a rich environment of social connectivity and digital storytelling among their members. 
 
 ## Objective
 To design and develop a robust and user-friendly CMS catering to diverse content creation, management, and interaction needs in the digital realm.
