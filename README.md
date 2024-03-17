@@ -114,6 +114,7 @@ Before you start, ensure you have the following installed:
 - Node.js and npm
 - Docker and Docker Compose
 - IntelliJ IDEA (recommended for back-end development)
+- MongoDB
 
 ### Clone the Repository
 
